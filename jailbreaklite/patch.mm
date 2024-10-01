@@ -7,9 +7,7 @@
     dispatch_after(dispatch_time(DISPATCH_TIME_NOW, (int64_t)(3.0* NSEC_PER_SEC)), dispatch_get_main_queue(), ^{
         anogs("0x9AD1C", "0xC0035FD6");
         anogs("0x132974", "0xC0035FD6");
-
-        unity("0x52439D8", "0xC0035FD6");
-        unity("0x5243AD8", "0xC0035FD6");
+        
         unity("0x524C19C", "0xC0035FD6");
         unity("0x5331A08", "0x360080D2");
         unity("0x6132198", "0x0110201E");
